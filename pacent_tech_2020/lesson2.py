@@ -37,4 +37,32 @@ constant and never be changed.
 Arithmetric Operators
 You can add ( + ), subtract ( - ), multiply ( * ), and divide ( / ) numbers in Python.
 
+RESEARCH - Other arithmetric operators in python
+
+##########################################################################
+
+COMMENTS
+
+A comment allows you to write notes in English within your programs.
+
+Use a hash (#) to write single line comments
+
+>>> # This is a single line comment.
+
+Use triple quotes to write multiple line comments
+
+>>> """
+This is a multiple
+line comment.
+>>> """
+
+> Why write comments?
+The main reason to write comments is to explain what your code is supposed
+to do and how you are making it work.
+
+Writing good comments makes it easier when collaborating with other
+programmers as it would make clear to them what your thought process is
+in simple English.
+
+
 '''

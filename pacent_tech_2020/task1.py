@@ -3,7 +3,7 @@
 
 TASK 1
 
-> Start a new project in its own virtual environment using virtualenv.
+> Start a new project called (python_lessons) in its own virtual environment using virtualenv.
 
 > Open the python iteractive shell in your terminal(command prompt)
 
