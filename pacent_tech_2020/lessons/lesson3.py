@@ -84,9 +84,10 @@ Building lists this way is very common, because you often won’t know
 the data your users want to store in a program until after the program is
 running. To put your users in control, start by defining an empty list that
 will hold the users’ values. Then append each new value provided to the list
-you just created.
+-++++++++++++++++you just created.
 
-Inserting Elements into a List
++
++Inserting Elements into a List
 
 You can add a new element at any position in your list by using the insert()
 method. You do this by specifying the index of the new element and the
