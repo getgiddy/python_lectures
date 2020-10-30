@@ -34,3 +34,25 @@ rstrip() , and strip() .
 
 
 '''
+# 3
+name = 'Eric'
+print(f"Hello {name}, would you like to learn some Python today?")
+
+# 4
+print(name.lower())
+print(name.upper())
+print(name.title())
+
+# 5
+print("Albert Einstein once said, \"A person who never made a mistake never tried anything new.\"")
+
+# 6
+famous_person = 'Albert Einstein'
+message = f'{famous_person} once said, "A person who never made a mistake never tried anything new."'
+print(message)
+
+# 7
+name = '  \t  Eric \n    '
+print(name.lstrip())
+print(name.rstrip())
+print(name.strip())

@@ -23,3 +23,17 @@ the current date at the top of each program file. Then write one sentence
 describing what the program does.
 
 '''
+
+# 1
+print(5 + 3)
+print(10 - 2)
+print(2 * 4)
+print(4 / .5)
+
+# 2
+favorite_number = 4
+print('My favorite number is {}'.format(favorite_number))
+
+# 3
+# Author - Gideon Anyalewechi
+# Task - 3

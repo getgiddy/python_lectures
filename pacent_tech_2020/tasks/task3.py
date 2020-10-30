@@ -66,3 +66,19 @@ arrive in time for the dinner, and you have space for only two guests.
     of your program.
 
 '''
+
+# 1
+names = ['Eric', 'Patrick', 'Emmanuel', 'Jennifer']
+print(names[0])
+print(names[1])
+print(names[2])
+print(names[3])
+
+# 2
+print(f'Hello {names[0]}')
+print(f'Hello {names[1]}')
+print(f'Hello {names[2]}')
+print(f'Hello {names[3]}')
+
+# 3
+
